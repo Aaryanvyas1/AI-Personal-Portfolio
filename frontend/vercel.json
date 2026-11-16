@@ -1,7 +1,7 @@
 {
   "cleanUrls": true,
   "rewrites": [
-    { "source": "/api/:path*", "destination": "https://ai-cyan-sigma-92.vercel.app/" }
+    { "source": "/api/:path*", "destination": "https://ai-personal-portfolio-hlic.vercel.app/" }
   ],
   "headers": [
     {
